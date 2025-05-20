@@ -3,7 +3,7 @@
 Requirement files \
 1. Downloade the [Microsoft Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 2. After downloading and opening/installing this app will downloade two files\
-a. [Office setup.exe]([text](files/setup.exe))
+a. [setup.exe]([text](files/setup.exe))
 b.[configuration-Office365-x64.xml]([text](files/configuration-Office365-x64.xml))
 3. you need a 3rd file called [configuration.xml]([text](files/Configuration.xml)) 
 ![alt text](image-1.png)
