@@ -21,4 +21,5 @@ Note: in this file you can see the list of products that you want to add in offi
  You can try this key > Y63J7-9RNDJ-GD3BV-BDKBP-HH966
 9. For activation open power shell as administrator  type the command
 >irm https://get.activated.win | iex 
->now select number 5
+10. now select number 5
+![alt text](image-2.png)
