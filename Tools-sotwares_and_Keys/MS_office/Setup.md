@@ -27,4 +27,4 @@ Note: in this file you can see the list of products that you want to add in offi
 ![alt text](Setup/Images/image-3.png)
 and check which option works for you.
 
-### Thank you
+### Thank you everyone for reading this article.
