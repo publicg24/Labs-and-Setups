@@ -26,5 +26,3 @@ Note: in this file you can see the list of products that you want to add in offi
 11. Now try options 2, option 3, option 4
 ![alt text](Setup/Images/image-3.png)
 and check which option works for you.
-
-### Thank you everyone for reading this article.
